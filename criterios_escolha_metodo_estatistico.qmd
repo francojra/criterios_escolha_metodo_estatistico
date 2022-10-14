@@ -1,0 +1,19 @@
+---
+title: "Critérios para a Escolha do Método Estatístico"
+format: pdf
+editor: visual
+date: 14/10/2022
+author: Jeanne Franco
+toc: true
+toc-title: Sumário
+---
+
+------------------------------------------------------------------------
+
+## O que são testes estatísticos?
+
+Procedimentos estatísticos que permitem a tomada de decisão. São testes de hipótese ou de significância.
+
+-   **Hipótese nula (H0)**: um conjunto de variáveis contidas em dados amostrados em um experimento ou ambiente não se difere, correlaciona ou relaciona com efeito significativo. Ou seja, não difere do esperado ao acaso.
+
+-   **Hipótese alternativa (H1)**: um conjunto de variáveis se difere, correlaciona, ou relaciona com efeito significativo, contrariando o esperado ao acaso.
