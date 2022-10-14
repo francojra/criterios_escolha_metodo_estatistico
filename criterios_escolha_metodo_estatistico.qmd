@@ -17,3 +17,21 @@ Procedimentos estatísticos que permitem a tomada de decisão. São testes de hi
 -   **Hipótese nula (H0)**: um conjunto de variáveis contidas em dados amostrados em um experimento ou ambiente não se difere, correlaciona ou relaciona com efeito significativo. Ou seja, não difere do esperado ao acaso.
 
 -   **Hipótese alternativa (H1)**: um conjunto de variáveis se difere, correlaciona, ou relaciona com efeito significativo, contrariando o esperado ao acaso.
+
+## Tipos de erros estatísticos
+
+A escolha do teste adequado determina a robustez e confiabilidade dos resultados.
+
+-   **Tipo I (falso positivo)**: teste erroneamente significativo (p \< 0,05). A análise estatística não consegue aceitar a hipótese nula (H0).
+
+-   **Tipo II (falso negativo)**: teste erroneamente não significativo (p \> 0,05). A análise não consegue aceitar a hipótese alternativa (H1).
+
+## Distribuições de erros
+
+O tipo de distribuição estatística dos dados influencia na independência amostral e nos testes de hipóteses.
+
+-   **Distribuição normal (Gaussiana)**: principal pressuposto em diversas análises.
+
+    ![](6b4e6ea4-6482-416c-a93c-2f196ad6a9c7.jpeg)
+
+-   **Distribuição dos resíduos**: indica a aleatoriedade amostral (amostras independentes), normalidade e homocedasticidade (variância constante de erros entre amostras).
