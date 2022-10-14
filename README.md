@@ -1,0 +1,1 @@
+# criterios_escolha_metodo_estatistico
