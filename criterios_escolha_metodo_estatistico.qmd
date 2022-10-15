@@ -32,8 +32,6 @@ O tipo de distribuição estatística dos dados influencia na independência amo
 
 -   **Distribuição normal (Gaussiana)**: principal pressuposto em diversas análises.
 
-    ![](6b4e6ea4-6482-416c-a93c-2f196ad6a9c7.jpeg)
-
 -   **Distribuição dos resíduos**: indica a aleatoriedade amostral (amostras independentes), normalidade e homocedasticidade (variância constante de erros entre amostras).
 
 ## Tipos de avaliações estatísticas
@@ -73,3 +71,17 @@ O tipo de distribuição estatística dos dados influencia na independência amo
     -   **Pré-diagnóstico**: [teste de normalidade]{.underline} (ex. Shapiro-Wilk).
 
     -   **Testes**: [correlação de Pearson]{.underline} para dados com distribuição normal (paramétrica) e [correlação de Spearman]{.underline} para dados com distribuição diferentes da normal (não para métrica).
+
+-   **Modelos de regressão**
+
+    -   Avalia a relação causal e preditiva do efeito de uma ou mais variáveis explicativas (independentes) sobre o comportamento de uma variável alvo (dependente).
+
+    -   **Pré-diagnóstico**:
+
+        -   [Teste de normalidade]{.underline} (ex. teste de Shapiro-Wilk);
+
+        -   [Avaliação de independência dos resíduos]{.underline};
+
+        -   Avaliação dos níveis de correlação linear ([colinearidade]{.underline}) entre as variáveis independentes (ex. Pearson e Spearman);
+
+        -   Avaliação da linearidade entre a variável dependente e a variável independente (ex. ajuste de curvas teórica esperada e observada).
