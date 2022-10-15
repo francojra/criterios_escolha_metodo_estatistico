@@ -35,3 +35,41 @@ O tipo de distribuição estatística dos dados influencia na independência amo
     ![](6b4e6ea4-6482-416c-a93c-2f196ad6a9c7.jpeg)
 
 -   **Distribuição dos resíduos**: indica a aleatoriedade amostral (amostras independentes), normalidade e homocedasticidade (variância constante de erros entre amostras).
+
+## Tipos de avaliações estatísticas
+
+![](Sem%20t%C3%ADtulo.png)
+
+## Tipos de testes estatísticos
+
+-   **Significância de uma média amostral**
+
+    -   Testes importantes para identificar se uma média amostral pode representar o todo.
+
+    ```{=html}
+    <!-- -->
+    ```
+    -   **Pré-diagnóstico**: [teste de normalidade]{.underline} (verifica se a população amostral segue a distribuição normal).
+
+    -   **Testes**: [teste t]{.underline} para distribuição normal (paramétrica) e [teste de Wilcoxon]{.underline} para distribuição diferente da normal (não paramétrica).
+
+-   **Comparações entre médias: duas ou mais amostras**
+
+    -   Compara se a média amostral de uma variável difere significativamente entre duas ou mais amostras.
+
+    -   **Pré-diagnóstico**:
+
+        -   **Duas amostras** dependentes ou independentes: [teste de normalidade]{.underline} (ex. teste de Shapiro-Wilk);
+        -   **Múltiplas amostras** dependentes ou independentes: [teste de normalidade]{.underline}, [homocedasticidade]{.underline} (ex. teste de Levene e Bartlett), e teste para saber se as amostras são dependentes ou independentes ([testes de independência de resíduos]{.underline} com avaliação gráfica da distribuição dos resíduos ou Durbin-Watson).
+
+    -   **Testes**:
+
+![](testes.png)
+
+-   **Correlações**
+
+    -   Avalia associação (aumento ou redução de valores) matemático-estatística natural entre variáveis. Exemplo de variáveis: diâmetro e área basal.
+
+    -   **Pré-diagnóstico**: [teste de normalidade]{.underline} (ex. Shapiro-Wilk).
+
+    -   **Testes**: [correlação de Pearson]{.underline} para dados com distribuição normal (paramétrica) e [correlação de Spearman]{.underline} para dados com distribuição diferentes da normal (não para métrica).
