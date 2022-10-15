@@ -84,4 +84,8 @@ O tipo de distribuição estatística dos dados influencia na independência amo
 
         -   Avaliação dos níveis de correlação linear ([colinearidade]{.underline}) entre as variáveis independentes (ex. Pearson e Spearman);
 
-        -   Avaliação da linearidade entre a variável dependente e a variável independente (ex. ajuste de curvas teórica esperada e observada).
+        -   [Avaliação da linearidade entre a variável dependente e a variável independente]{.underline} (ex. ajuste de curvas teórica esperada e observada).
+
+    -   **Testes**:
+
+        ![](rrege.png)
