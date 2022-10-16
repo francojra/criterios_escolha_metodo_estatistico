@@ -5,6 +5,7 @@ editor: visual
 date: 14/10/2022
 author: Jeanne Franco
 toc: true
+toc-depth: 3 
 toc-title: Sumário
 ---
 
@@ -104,3 +105,11 @@ O tipo de distribuição estatística dos dados influencia na independência amo
         -   **Método de ordenação irrestritos (unconstrained)**: análise indireta de gradientes de distribuição das variáveis de uma matriz no espaço multivariado. Os testes incluem Análise de Componentes Principais (PCA), Análise de Coordenadas Principais (PCoA), Escalonamento Multidimensional Não-Métrico (NMDS), Análise de Correspondência (CA), Análise de Correspondência Dissuadida (DCA) e Análise Fatorial (FA);
 
         -   **Métodos de ordenação restritivos**: análise direta de gradientes de distribuição avaliada com duas matrizes de dados (resposta e ecplicativa). Os testes incluem a Análise de Correspondência Canônica (CCA), Análise de Redundância Discriminante (RDA) e Partição de Variância (VP).
+
+-   **Exemplos de gráficos com análises multivariadas**
+
+    ![](graf_mult.png)
+
+-   **Seleção dos métodos de análises multivariadas por suas especificidades e tipos de variáveis avaliadas**
+
+    ![](selecao_metodos_mult.png)
