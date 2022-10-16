@@ -44,11 +44,7 @@ O tipo de distribuição estatística dos dados influencia na independência amo
 -   **Significância de uma média amostral**
 
     -   Testes importantes para identificar se uma média amostral pode representar o todo.
-
-    <!-- -->
-
     -   **Pré-diagnóstico**: [teste de normalidade]{.underline} (verifica se a população amostral segue a distribuição normal).
-
     -   **Testes**: [teste t]{.underline} para distribuição normal (paramétrica) e [teste de Wilcoxon]{.underline} para distribuição diferente da normal (não paramétrica).
 
 -   **Comparações entre médias: duas ou mais amostras**
@@ -113,3 +109,25 @@ O tipo de distribuição estatística dos dados influencia na independência amo
 -   **Seleção dos métodos de análises multivariadas por suas especificidades e tipos de variáveis avaliadas**
 
     ![](selecao_metodos_mult.png)
+
+## Softwares e funções para executar as análises
+
+![](softw.png)
+
+## Recomendação de livros
+
+![](liv.png)
+
+## Boas práticas e cuidados para uma correta análise
+
+1.  Estude e avalie previamente o correto delineamento e/ou tipo de amostragem de dados;
+
+2.  Colete dados com esforço amostral suficiente para atender ao seu objetivo;
+
+3.  Conheça a natureza dos seus dados (ex. distribuição normal, Poisson, etc.);
+
+4.  Avalie o cumprimento dos pressupostos do modelo usado;
+
+5.  Interprete os resultados exatamente de acordo com o tipo de teste usado sem extrapolações não testadas;
+
+6.  Expresse clareza ao reportar como o teste estatístico foi executado.
