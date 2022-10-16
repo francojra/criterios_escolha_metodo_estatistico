@@ -93,10 +93,14 @@ O tipo de distribuição estatística dos dados influencia na independência amo
 
     -   Métodos que simplificam resultados de inúmeras análises univariadas e bivariadas para conjunto de diversas variáveis avaliadas simultaneamente.
 
-    -   **Pré-diagnósticos**: diversos, a depender do método. Ex. normalidade multivariada para MANOVA, esfericidade (variância-covariância) de Bartlett para Factor Analysis (FA).
+    -   **Pré-diagnósticos**: diversos, a depender do método. Ex. [normalidade multivariada para MANOVA]{.underline}, [esfericidade (variância-covariância)]{.underline} de Bartlett para Factor Analysis (FA).
 
     -   **Testes**:
 
         -   **Métodos de agrupamento (clustering)** agrupam variáveis em grupos ou classes por sua similaridade;
 
-        -   **Métodos discriminantes**:
+        -   **Métodos discriminantes**: avaliam similaridades/dissimilaridades de matriz de dados numéricos através de comparações de suas médias multivariadas. Os testes incluem a Análise Multivariada de Variância (MANOVA), a PERMANOVA (MANOVA não-paramétrica) e ANOSIM - Análises de Similaridades;
+
+        -   **Método de ordenação irrestritos (unconstrained)**: análise indireta de gradientes de distribuição das variáveis de uma matriz no espaço multivariado. Os testes incluem Análise de Componentes Principais (PCA), Análise de Coordenadas Principais (PCoA), Escalonamento Multidimensional Não-Métrico (NMDS), Análise de Correspondência (CA), Análise de Correspondência Dissuadida (DCA) e Análise Fatorial (FA);
+
+        -   **Métodos de ordenação restritivos**: análise direta de gradientes de distribuição avaliada com duas matrizes de dados (resposta e ecplicativa). Os testes incluem a Análise de Correspondência Canônica (CCA), Análise de Redundância Discriminante (RDA) e Partição de Variância (VP).
