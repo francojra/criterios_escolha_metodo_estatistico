@@ -44,9 +44,8 @@ O tipo de distribuição estatística dos dados influencia na independência amo
 
     -   Testes importantes para identificar se uma média amostral pode representar o todo.
 
-    ```{=html}
     <!-- -->
-    ```
+
     -   **Pré-diagnóstico**: [teste de normalidade]{.underline} (verifica se a população amostral segue a distribuição normal).
 
     -   **Testes**: [teste t]{.underline} para distribuição normal (paramétrica) e [teste de Wilcoxon]{.underline} para distribuição diferente da normal (não paramétrica).
@@ -89,3 +88,15 @@ O tipo de distribuição estatística dos dados influencia na independência amo
     -   **Testes**:
 
         ![](rrege.png)
+
+-   **Modelos multidimensionais**
+
+    -   Métodos que simplificam resultados de inúmeras análises univariadas e bivariadas para conjunto de diversas variáveis avaliadas simultaneamente.
+
+    -   **Pré-diagnósticos**: diversos, a depender do método. Ex. normalidade multivariada para MANOVA, esfericidade (variância-covariância) de Bartlett para Factor Analysis (FA).
+
+    -   **Testes**:
+
+        -   **Métodos de agrupamento (clustering)** agrupam variáveis em grupos ou classes por sua similaridade;
+
+        -   **Métodos discriminantes**:
